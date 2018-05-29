@@ -1,3 +1,1 @@
 # DynamoDbSamples
-# DynamoDbSamples project
-# DynamoDbSamples
