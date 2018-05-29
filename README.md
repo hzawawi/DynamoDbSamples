@@ -1,1 +1,2 @@
 # DynamoDbSamples
+# DynamoDbSamples project
